@@ -3,8 +3,7 @@ html, body{
 }
 
 h1{
-	width: 90%;
-	margin: 1rem auto;
+	color: ;
 }
 
 
@@ -29,5 +28,17 @@ em {
 	
 
 img{
-	width: 60%;
+	width: 40%;
+}
+
+blockquote {
+	padding: 3.5rem 5%;	
+}
+
+dt{
+	float:left;
+}
+
+dd{
+	float:left;
 }
