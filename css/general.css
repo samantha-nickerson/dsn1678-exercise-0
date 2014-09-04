@@ -1,0 +1,33 @@
+html, body{
+
+}
+
+h1{
+	width: 90%;
+	margin: 1rem auto;
+}
+
+
+h2{
+	font-weight: 100;
+	color: rgb(113,127,109);
+	text-align: center;
+}
+
+
+p {
+	margin: auto;
+	color: #333;
+	font-size: 15px;
+	line-height: 1.5rem;
+}
+
+em {
+	font-style: italic;
+}
+
+	
+
+img{
+	width: 60%;
+}
