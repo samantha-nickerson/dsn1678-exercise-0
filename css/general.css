@@ -33,6 +33,10 @@ blockquote {
 	padding: 3.5rem 5%;	
 }
 
+dl{
+	overflow: hidden;
+}
+
 dt{
 	float:left;
 	clear: left;
